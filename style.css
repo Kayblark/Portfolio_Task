@@ -1,0 +1,82 @@
+* body{
+    margin: 120px 300px 120px;
+    padding: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(231, 225, 216); 
+    height: 100%;
+    border:burlywood;
+    border-width: 100%;
+    border-style:double;
+    border-radius: 50px;
+    height: 100%;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+    color: #328832;
+}
+.heading ul li{
+    text-align: center;
+    list-style: none;
+    margin-top: -5px; 
+}
+.profile h5{
+    text-decoration: underline;
+    color: #328832;
+    margin-bottom: -10px;
+}
+.profile h5 p{
+    width: 50%;
+    margin-bottom: -10px;
+}
+.competences h5{
+    text-decoration: underline;
+    color: #328832; 
+    margin-bottom: -10px;
+}
+.competences ul{
+    width: 25%;
+    float: left;
+}
+.skills h5{
+    text-decoration: underline;
+    color: #328832;
+    display: flex;
+    width: 30%;
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+h5{
+    text-decoration: underline;
+    color: #328832;
+    margin-top: 15px; 
+    width: 100%;
+    display: flex;
+    margin-bottom: -10px;
+}
+.banjo{
+    margin: 20px 15px 20px;
+}
+.banjo h5{
+    text-decoration: underline;
+    color: #328832;
+    margin-bottom: -10px;
+}
+.daip h5{
+    text-decoration: underline;
+    color: #328832;
+    margin-bottom: -10px;
+}
+.education h5{
+    text-decoration: underline;
+    color: #328832;
+    margin-bottom: -10px;
+}
+.education p{
+    margin-left: 60px;
+}
+.geomatt h5{
+    text-decoration: underline;
+    color: #328832;
+    margin-bottom: -10px;
+}
